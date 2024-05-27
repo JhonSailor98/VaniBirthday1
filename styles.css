@@ -1,0 +1,83 @@
+
+
+/*Estilo de secciones*/
+#uno{
+    display: flex; 
+    justify-content: center;
+}
+#dos{
+    display: flex; 
+    justify-content: center;
+}
+#tres{
+    display: flex; 
+    justify-content: center;
+}
+
+/*Estilo de divs*/
+#feliz{
+    background-color:aquamarine;
+    height: 200px;
+    width: 24.7%;
+    display: inline-block;
+    justify-content: center;
+}
+#duda{
+    background-color:rosybrown;
+    height: 200px;
+    width: 24.7%;
+    display: inline-block;
+    justify-content: center;
+}
+
+#sola{
+    background-color:crimson;
+    height: 200px;
+    width: 24.7%;
+    display: inline-block;
+    justify-content: center;
+}
+#debil{
+    background-color:lightcoral;
+    height: 200px;
+    width: 24.7%;
+    display: inline-block;
+    justify-content: center;
+}
+
+#molesta{
+    background-color:lemonchiffon;
+    width: 33%;
+    display: inline-block;
+    justify-content: center;
+}
+
+#centro{
+    background-color:burlywood;
+    width: 33%;
+    display: inline-block;
+    justify-content: center;
+    margin: 0%;
+}
+#triste{
+    background-color:darkcyan;
+    width: 33%;
+    display: inline-block;
+    justify-content: center;
+}
+
+/*Estilo adicionales*/
+#tqm{
+    color:darkcyan;
+    margin: 0%;
+    display: flex; 
+    justify-content: center;
+    font-weight: bold;
+}
+
+#Felicitacion{
+    background-color:mediumspringgreen;
+    width: 99%;
+    display: inline-block;
+    justify-content: center;
+}
